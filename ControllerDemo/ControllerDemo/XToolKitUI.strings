@@ -1,0 +1,11 @@
+/* 
+  XToolKitUI.strings
+  XToolKitUIDemo
+
+  Created by frank.xu on 11/23/12.
+  Copyright (c) 2012 Frank. All rights reserved.
+*/
+"drag_to_refresh_state_0"="上提加载更多";
+"drag_to_refresh_state_1"="松手加载更多";
+"drag_to_refresh_state_2"="加载中...";
+"top_to_load_more"="点击加载更多";
